@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "next-remedy-musician-outreach",
+    "Musician": "next-remedy-musician-outreach"
+  },
+  "targets": {},
+  "etags": {}
+}
